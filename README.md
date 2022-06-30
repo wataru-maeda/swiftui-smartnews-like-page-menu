@@ -2,7 +2,7 @@
 
 ## Demo
 
-<img src="https://github.com/wataru-maeda/swiftui-smartnews-like-page-menu/demo.gif" width="280">
+<img src="https://github.com/wataru-maeda/swiftui-smartnews-like-page-menu/blob/main/demo.gif" width="280">
 
 ## Installation
 
