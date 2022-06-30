@@ -13,6 +13,7 @@
 		A560C191286CFD2200F228DD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A560C190286CFD2200F228DD /* Preview Assets.xcassets */; };
 		A560C198286CFD7800F228DD /* PageMenuTab.swift in Sources */ = {isa = PBXBuildFile; fileRef = A560C197286CFD7800F228DD /* PageMenuTab.swift */; };
 		A560C19D286D006A00F228DD /* PageMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = A560C19C286D006A00F228DD /* PageMenu.swift */; };
+		A572129F286DE08400B7ED63 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A572129E286DE08400B7ED63 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		A560C190286CFD2200F228DD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A560C197286CFD7800F228DD /* PageMenuTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageMenuTab.swift; sourceTree = "<group>"; };
 		A560C19C286D006A00F228DD /* PageMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageMenu.swift; sourceTree = "<group>"; };
+		A572129E286DE08400B7ED63 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				A560C18B286CFD2100F228DD /* ContentView.swift */,
 				A560C19B286D004C00F228DD /* PageMenu */,
 				A560C18D286CFD2200F228DD /* Assets.xcassets */,
+				A572129E286DE08400B7ED63 /* README.md */,
 				A560C18F286CFD2200F228DD /* Preview Content */,
 			);
 			path = "smartnews-like-page-menu";
@@ -139,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A572129F286DE08400B7ED63 /* README.md in Resources */,
 				A560C191286CFD2200F228DD /* Preview Assets.xcassets in Resources */,
 				A560C18E286CFD2200F228DD /* Assets.xcassets in Resources */,
 			);
